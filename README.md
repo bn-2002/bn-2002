@@ -2,6 +2,14 @@
 
 I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and its associated frameworks. My passion for this programming language continues to grow with each new concept I learn...
 
+**Contact:** 
+<a href="bahare.nikoosiyar@gmail.com">
+  <img align="left" alt="Bahare Nikoosiyar's Email" width="22px" src="bahare.nikoosiyar@gmail.com" />
+</a>
+<a href="https://www.linkedin.com/in/bahare-nikoosiyar/">
+  <img align="left" alt="Bahare Nikoosiyar's LinkedIN" width="22px" src="https://www.linkedin.com/in/bahare-nikoosiyar/" />
+</a>
+
 **languages and tools:**   
 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
