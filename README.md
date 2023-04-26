@@ -2,8 +2,6 @@
 
 I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and its associated frameworks. My passion for this programming language continues to grow with each new concept I learn...
 
-[![Bahare's GitHub stats](https://github-readme-stats.vercel.app/api?username=bn-2002)](https://github.com/bn-2002/github-readme-stats)
-
 **languages and tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
@@ -11,10 +9,9 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702404-e0fccd9b-d08c-413c-a217-cfc3419b22ce.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702673-ac334b20-0ef4-4cb4-96ee-ba4534877881.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702694-969646b7-1ab8-4370-9f82-4ff344c47327.svg" style="max-width: 100%;"></code>
-<code><img height="20" src="" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703390-ac7a6ba2-d630-4d69-88d8-e41a661a0c00.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702730-c4868781-600c-488d-95c8-989ba9f6f971.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702761-c702fa5f-a57f-4e5a-a76c-3e1eea1166a9.svg" style="max-width: 100%;"></code>
-
 
 
 
