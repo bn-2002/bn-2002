@@ -34,6 +34,9 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702761-c702fa5f-a57f-4e5a-a76c-3e1eea1166a9.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234712047-c0635925-51ca-4683-b331-49bd78c5a61a.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234716205-710d8787-2c89-4cad-8b21-49908ff94dc0.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234716203-65ceb2aa-6003-45c2-babe-81d4f99e5901.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234716204-39a79d24-74a7-45cb-aaa0-7969b5b05099.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703501-2e755796-bd16-4879-9d56-26fd8704a946.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234711940-7adbc744-51d9-45eb-a6e2-b8abdf0eeff3.svg" style="max-width: 100%;"></code>
 
@@ -41,3 +44,4 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bn-2002&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+ 
