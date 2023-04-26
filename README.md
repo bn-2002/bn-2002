@@ -23,10 +23,10 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 
 <h4>Languages and tools :</h4>  
 
-<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702498-609a95de-a022-4a8c-a362-a1c89af58ecc.svg" style="max-width: 100%;"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702404-e0fccd9b-d08c-413c-a217-cfc3419b22ce.svg" style="max-width: 100%;"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703551-cfdd656d-a6a1-4601-8620-a6817a3f76e1.svg" style="max-width: 100%;"></code>
+<code><img height="20" alt="html" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
+<code><img height="20" alt="emmet" src="https://user-images.githubusercontent.com/71316063/234702498-609a95de-a022-4a8c-a362-a1c89af58ecc.svg" style="max-width: 100%;"></code>
+<code><img height="20" alt="css" src="https://user-images.githubusercontent.com/71316063/234702404-e0fccd9b-d08c-413c-a217-cfc3419b22ce.svg" style="max-width: 100%;"></code>
+<code><img height="20" alt="sass" src="https://user-images.githubusercontent.com/71316063/234703551-cfdd656d-a6a1-4601-8620-a6817a3f76e1.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702673-ac334b20-0ef4-4cb4-96ee-ba4534877881.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702694-969646b7-1ab8-4370-9f82-4ff344c47327.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703390-ac7a6ba2-d630-4d69-88d8-e41a661a0c00.svg" style="max-width: 100%;"></code>
