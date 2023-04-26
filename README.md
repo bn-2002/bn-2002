@@ -37,5 +37,9 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703501-2e755796-bd16-4879-9d56-26fd8704a946.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234711940-7adbc744-51d9-45eb-a6e2-b8abdf0eeff3.svg" style="max-width: 100%;"></code>
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bn-2002&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 
