@@ -2,7 +2,7 @@
 
 I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and its associated frameworks. My passion for this programming language continues to grow with each new concept I learn...
 
-**Contact:** 
+<h3>**Contact:**</h3>
 
 <a href="bahare.nikoosiyar@gmail.com">
   <img align="left" alt="Bahare Nikoosiyar's Email" width="22px" src="https://user-images.githubusercontent.com/71316063/234707711-5ce994b8-d3dd-4e6a-b745-d7096406f53a.svg" />
@@ -11,7 +11,7 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
   <img align="left" alt="Bahare Nikoosiyar's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/71316063/234707906-333fb383-e5cc-4cd9-82b9-4c39bcf85858.svg" />
 </a>
 
-**languages and tools:**   
+<h3>**languages and tools:**</h3>  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702498-609a95de-a022-4a8c-a362-a1c89af58ecc.svg" style="max-width: 100%;"></code>
