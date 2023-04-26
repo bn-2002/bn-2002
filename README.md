@@ -2,7 +2,7 @@
 
 I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and its associated frameworks. My passion for this programming language continues to grow with each new concept I learn...
 
-<h4>Contact:<img align="left" alt="contact" width="22px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" />
+<h4><img align="left" alt="contact" width="15px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>Contact:
 </h4>
 
 <a href="bahare.nikoosiyar@gmail.com">
