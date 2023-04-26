@@ -33,5 +33,7 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702730-c4868781-600c-488d-95c8-989ba9f6f971.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702761-c702fa5f-a57f-4e5a-a76c-3e1eea1166a9.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234711132-445f93e9-e927-496d-b654-f0add92e92fe.svg" style="max-width: 100%;"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234703501-2e755796-bd16-4879-9d56-26fd8704a946.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234711054-944bf2f4-c182-4cf4-b08a-189366cb2049.svg" style="max-width: 100%;"></code>
 
