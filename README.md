@@ -6,9 +6,6 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 
 **languages and tools:**  
 
-<code>
-  
-</code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
 
 
