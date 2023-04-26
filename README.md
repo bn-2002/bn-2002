@@ -7,5 +7,14 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 **languages and tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702498-609a95de-a022-4a8c-a362-a1c89af58ecc.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234702404-e0fccd9b-d08c-413c-a217-cfc3419b22ce.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg" style="max-width: 100%;"></code>
+
+
 
 
