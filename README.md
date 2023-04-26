@@ -2,7 +2,9 @@
 
 I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and its associated frameworks. My passion for this programming language continues to grow with each new concept I learn...
 
-<h4>Contact:</h4>
+<h4>Contact:
+  <img align="left" alt="Bahare Nikoosiyar's instagram" width="22px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" />
+</h4>
 
 <a href="bahare.nikoosiyar@gmail.com">
   <img align="left" alt="Bahare Nikoosiyar's Email" width="22px" src="https://user-images.githubusercontent.com/71316063/234708953-e7832e9b-91cd-49c5-9516-179194611dbd.svg" />
@@ -40,6 +42,4 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bn-2002&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
 
