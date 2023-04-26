@@ -4,7 +4,9 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 
 **Contact:** 
 <a href="bahare.nikoosiyar@gmail.com">
-  <img align="left" alt="Bahare Nikoosiyar's Email" width="22px" src="https://user-images.githubusercontent.com/71316063/234707711-5ce994b8-d3dd-4e6a-b745-d7096406f53a.svg" />
+ 
+  
+  code><img height="20" src="https://user-images.githubusercontent.com/71316063/234707711-5ce994b8-d3dd-4e6a-b745-d7096406f53a.svg" style="max-width: 100%;"></code>
 </a>
 <a href="https://www.linkedin.com/in/bahare-nikoosiyar/">
   <img align="left" alt="Bahare Nikoosiyar's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/71316063/234707906-333fb383-e5cc-4cd9-82b9-4c39bcf85858.svg" />
