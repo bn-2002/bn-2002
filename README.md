@@ -11,6 +11,14 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
   <img align="left" alt="Bahare Nikoosiyar's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/71316063/234707906-333fb383-e5cc-4cd9-82b9-4c39bcf85858.svg" />
 </a>
 
+<a href="https://t.me/bahareni1">
+  <img align="left" alt="Bahare Nikoosiyar's Telegram" width="22px" src="https://user-images.githubusercontent.com/71316063/234709288-0595e392-489e-4996-be8b-90e5a5e2d999.svg" />
+</a>
+
+<a href="https://instagram.com/bahareni1">
+  <img align="left" alt="Bahare Nikoosiyar's instagram" width="22px" src="https://user-images.githubusercontent.com/71316063/234709292-4c42ba69-8d13-4337-b0a3-43887bdde014.svg" />
+</a>
+
 <br/>
 
 <h4>Languages and tools:</h4>  
