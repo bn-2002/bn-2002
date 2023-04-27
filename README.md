@@ -1,4 +1,4 @@
-### Hi <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="30px" width="30px" alt="happy-face">
+### Hi <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="20px" width="20px" alt="happy-face">
 
 I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and its associated frameworks. My passion for this programming language continues to grow with each new concept I learn...
 
