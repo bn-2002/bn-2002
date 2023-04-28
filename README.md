@@ -4,7 +4,7 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 
 <h4>Contact :</h4>
 
-<a href="bahare.nikoosiyar@gmail.com">
+<a href="mailto:bahare.nikoosiyar@gmail.com">
   <img align="left" alt="Bahare Nikoosiyar's Email" width="22px" src="https://user-images.githubusercontent.com/71316063/234708953-e7832e9b-91cd-49c5-9516-179194611dbd.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bahare-nikoosiyar/">
