@@ -32,12 +32,15 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <img height="20" title="Javascript" height="20px" src="https://user-images.githubusercontent.com/71316063/234703390-ac7a6ba2-d630-4d69-88d8-e41a661a0c00.svg">
 <img height="20" title="Typescript" height="20px" src="https://user-images.githubusercontent.com/71316063/234702730-c4868781-600c-488d-95c8-989ba9f6f971.svg">
 <img height="20" title="React.js" height="20px" src="https://user-images.githubusercontent.com/71316063/234702761-c702fa5f-a57f-4e5a-a76c-3e1eea1166a9.svg">
-<img height="20" title="Redux" height="20px" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg">
 <img height="20" title="Next.js"  height="20px" src="https://user-images.githubusercontent.com/71316063/234712047-c0635925-51ca-4683-b331-49bd78c5a61a.svg">
+<img height="20" title="Redux" height="20px" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg">
+<img height="20" src="https://github.com/bn-2002/Rick-and-Morty/assets/71316063/536b29bf-ca9c-4822-996b-5bad18baf408" alt="React Query" title="React Query"/>
+<img height="20" src="https://github.com/bn-2002/Rick-and-Morty/assets/71316063/68911720-64a6-4ae6-8798-2224ee9c404c" alt="Zustand" title="Zustand"/>
+<img height="20" src="https://github.com/bn-2002/Calendar/assets/71316063/a1c471c7-8fca-4422-a300-29632b365133" alt="Storybook" title="Storybook"/>
 <img height="20" title="Ant design" height="20px" src="https://user-images.githubusercontent.com/71316063/234716205-710d8787-2c89-4cad-8b21-49908ff94dc0.svg">
-<img height="20"  title="Material UI" height="20px" src="https://user-images.githubusercontent.com/71316063/234716203-65ceb2aa-6003-45c2-babe-81d4f99e5901.svg">
-<img height="20" title="Firebase" height="20px" src="https://user-images.githubusercontent.com/71316063/234703501-2e755796-bd16-4879-9d56-26fd8704a946.svg">
-<img height="20" title="Git" height="20px" src="https://user-images.githubusercontent.com/71316063/234711940-7adbc744-51d9-45eb-a6e2-b8abdf0eeff3.svg">
+<img height="20"  title="Material UI" src="https://user-images.githubusercontent.com/71316063/234716203-65ceb2aa-6003-45c2-babe-81d4f99e5901.svg">
+<img height="20" title="Firebase" src="https://user-images.githubusercontent.com/71316063/234703501-2e755796-bd16-4879-9d56-26fd8704a946.svg">
+<img height="20" title="Git" src="https://user-images.githubusercontent.com/71316063/234711940-7adbc744-51d9-45eb-a6e2-b8abdf0eeff3.svg">
 </div>
 <h4>My github stats :</h4> 
 
