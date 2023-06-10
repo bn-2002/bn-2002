@@ -23,7 +23,7 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 
 <h4>Languages and tools :</h4>  
 <div>
-<img height="20" height="20px" alt="html" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg">
+<img height="20" title="html" height="20px" alt="html" src="https://user-images.githubusercontent.com/71316063/234701847-8ce9b8fc-cd0f-4fce-b117-35d8a82f36d7.svg">
 <img height="20" height="20px" alt="emmet" src="https://user-images.githubusercontent.com/71316063/234702498-609a95de-a022-4a8c-a362-a1c89af58ecc.svg">
 <img height="20" height="20px" alt="css" src="https://user-images.githubusercontent.com/71316063/234702404-e0fccd9b-d08c-413c-a217-cfc3419b22ce.svg">
 <img height="20" height="20px" alt="sass" src="https://user-images.githubusercontent.com/71316063/234703551-cfdd656d-a6a1-4601-8620-a6817a3f76e1.svg">
