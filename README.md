@@ -31,12 +31,11 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <img height="20" title="TailwindCSS" height="20px" src="https://user-images.githubusercontent.com/71316063/234702694-969646b7-1ab8-4370-9f82-4ff344c47327.svg">
 <img height="20" title="Javascript" height="20px" src="https://user-images.githubusercontent.com/71316063/234703390-ac7a6ba2-d630-4d69-88d8-e41a661a0c00.svg">
 <img height="20" title="Typescript" height="20px" src="https://user-images.githubusercontent.com/71316063/234702730-c4868781-600c-488d-95c8-989ba9f6f971.svg">
-<img height="20" title="Redux" height="20px" src="https://user-images.githubusercontent.com/71316063/234702761-c702fa5f-a57f-4e5a-a76c-3e1eea1166a9.svg">
-<img height="20" title="Next.js" height="20px" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg">
-<img height="20" title="Ant design" height="20px" src="https://user-images.githubusercontent.com/71316063/234712047-c0635925-51ca-4683-b331-49bd78c5a61a.svg">
-<img height="20" title="Material UI" height="20px" src="https://user-images.githubusercontent.com/71316063/234716205-710d8787-2c89-4cad-8b21-49908ff94dc0.svg">
-<img height="20" height="20px" src="https://user-images.githubusercontent.com/71316063/234716203-65ceb2aa-6003-45c2-babe-81d4f99e5901.svg">
-<img height="20" height="20px" src="https://user-images.githubusercontent.com/71316063/234716204-39a79d24-74a7-45cb-aaa0-7969b5b05099.svg">
+<img height="20" title="React.js" height="20px" src="https://user-images.githubusercontent.com/71316063/234702761-c702fa5f-a57f-4e5a-a76c-3e1eea1166a9.svg">
+<img height="20" title="Redux" height="20px" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg">
+<img height="20" title="Next.js"  height="20px" src="https://user-images.githubusercontent.com/71316063/234712047-c0635925-51ca-4683-b331-49bd78c5a61a.svg">
+<img height="20" title="Ant design" height="20px" src="https://user-images.githubusercontent.com/71316063/234716205-710d8787-2c89-4cad-8b21-49908ff94dc0.svg">
+<img height="20"  title="Material UI" height="20px" src="https://user-images.githubusercontent.com/71316063/234716203-65ceb2aa-6003-45c2-babe-81d4f99e5901.svg">
 <img height="20" title="Firebase" height="20px" src="https://user-images.githubusercontent.com/71316063/234703501-2e755796-bd16-4879-9d56-26fd8704a946.svg">
 <img height="20" title="Git" height="20px" src="https://user-images.githubusercontent.com/71316063/234711940-7adbc744-51d9-45eb-a6e2-b8abdf0eeff3.svg">
 </div>
