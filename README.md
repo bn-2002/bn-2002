@@ -34,7 +34,7 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <img height="30" title="React.js" src="https://user-images.githubusercontent.com/71316063/234702761-c702fa5f-a57f-4e5a-a76c-3e1eea1166a9.svg">
 <img height="30" title="Next.js" src="https://user-images.githubusercontent.com/71316063/234712047-c0635925-51ca-4683-b331-49bd78c5a61a.svg">
 <img height="30" title="Redux" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg">
-<img height="20" src="https://github.com/bn-2002/Rick-and-Morty/assets/71316063/536b29bf-ca9c-4822-996b-5bad18baf408" alt="React Query" title="React Query"/>
+<img height="30" src="https://github.com/bn-2002/Rick-and-Morty/assets/71316063/536b29bf-ca9c-4822-996b-5bad18baf408" alt="React Query" title="React Query"/>
 <img height="30" src="https://github.com/bn-2002/Rick-and-Morty/assets/71316063/68911720-64a6-4ae6-8798-2224ee9c404c" alt="Zustand" title="Zustand"/>
 <img height="30" src="https://github.com/bn-2002/Calendar/assets/71316063/a1c471c7-8fca-4422-a300-29632b365133" alt="Storybook" title="Storybook"/>
 <img height="30" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
