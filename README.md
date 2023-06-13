@@ -36,7 +36,7 @@ I am Bahare Nikoosiyar. I am currently expanding my knowledge in JavaScript and 
 <img height="30" title="Redux" src="https://user-images.githubusercontent.com/71316063/234703574-c41b056c-c59b-4b8a-a9c2-b6a5fa800d56.svg">
 <img height="30" src="https://github.com/bn-2002/Rick-and-Morty/assets/71316063/536b29bf-ca9c-4822-996b-5bad18baf408" alt="React Query" title="React Query"/>
 <img height="30" src="https://github.com/bn-2002/Rick-and-Morty/assets/71316063/68911720-64a6-4ae6-8798-2224ee9c404c" alt="Zustand" title="Zustand"/>
-<img height="30" src="https://www.pngfind.com/pngs/m/493-4934627_storybook-icon-ddf01037-storybook-js-hd-png-download.png" alt="Storybook" title="Storybook"/>
+<img height="30" src="https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg" alt="Storybook" title="Storybook"/>
 <img height="30" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
 <img height="30" title="Ant design" src="https://user-images.githubusercontent.com/71316063/234716205-710d8787-2c89-4cad-8b21-49908ff94dc0.svg">
 <img height="30"  title="Material UI" src="https://user-images.githubusercontent.com/71316063/234716203-65ceb2aa-6003-45c2-babe-81d4f99e5901.svg">
